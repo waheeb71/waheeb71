@@ -1,148 +1,71 @@
-<h1 align="center">Hi 👋, I'm Waheeb Al-Sharaabi</h1>
-<h3 align="center">Cybersecurity Specialist | Python Developer</h3>
+<div align="center">
+  <img src="https://media.giphy.com/media/du3J3BYNQxbjG/giphy.gif" width="100" />
+</div>
 
-🔭 I’m currently working on  
-[CYBER Programming Language](https://github.com/cyberlangdev/cyber) — A custom programming language for cybersecurity.
-
-👯 I’m looking to collaborate on  
-[CyberShield Project](https://github.com/cyberlangdev) — A defensive platform for phishing detection and threat analysis.
+<h1 align="center">مرحباً 👋، أنا وهيب الشرعبي</h1>
+<h3 align="center">أخصائي أمن سيبراني | مطور بايثون</h3>
 
 
-🤝 I’m looking for help with  
-[Network Monitoring Tool](https://github.com/waheeb71/WiFi-Hacking-Tool) — A real-time monitoring system for suspicious network activity.
 
+---
 
-🌱 I’m currently learning  
-AI for Cybersecurity | Flutter | Malware Analysis | Offensive Security
-
-💬 Ask me about  
-Python | Cybersecurity | Network Security | Penetration Testing | Nmap | Linux
-
-📫 How to reach me  
-📧 rhybmhywb9@gmail.com 
-📬 Telegram: [@WAT4F](https://t.me/WAT4F)
-
-
-👨‍💻 All of my projects are available at  
-[https://github.com/waheeb71](https://github.com/waheeb71)
-
-
-📄 Know about my experiences  
-[Resume/CV](https://github.com/waheeb71/mycv)
-
-⚡ Fun fact  
-I once built a fake ransomware for education that scared my friends 😅
+### 👨‍💻 عني
 
 <p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=waheeb71" alt="waheeb71" />
-  </a>
+  أنا متخصص في الأمن السيبراني ومطور شغوف بلغة بايثون، أجمع بين بناء الأدوات الدفاعية والهجومية. حالياً، أركز على تطوير لغات البرمجة المخصصة للأمن السيبراني وتوظيف الذكاء الاصطناعي في هذا المجال.
 </p>
 
-<p align="left">
-  <a href="https://twitter.com/sybersc" target="blank">
-    <img src="https://img.shields.io/twitter/follow/sybersc?logo=twitter&style=for-the-badge" alt="sybersc" />
-  </a>
+- 🔭 **أعمل حالياً على:** [لغة برمجة CYBER](https://github.com/cyberlangdev/cyber) - لغة مخصصة لتطبيقات الأمن السيبراني.
+- 👯 **أبحث عن تعاون في:** [مشروع CyberShield](https://github.com/cyberlangdev) - منصة دفاعية لكشف التصيد وتحليل التهديدات.
+- 🌱 **أتعلم حالياً:** الذكاء الاصطناعي في الأمن السيبراني، Flutter، تحليل البرمجيات الخبيثة، والأمن الهجومي.
+- 💬 **اسألني عن:** Python, Cybersecurity, Nmap, Linux, Penetration Testing.
+- ⚡ **حقيقة طريفة:** قمت ذات مرة ببناء برنامج فدية مزيف لأغراض تعليمية، وأثار الرعب في قلوب أصدقائي 😅.
+
+---
+
+### 🚀 لغات وأدوات أستخدمها
+
+<p align="center">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/></a>
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/></a>
+  <a href="https://flutter.dev" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/></a>
+  <a href="https://dart.dev" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/></a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/></a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/></a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash"/></a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/></a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/></a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/></a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/></a>
 </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://twitter.com/sybersc" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sybersc" height="30" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/www.linkedin.com/in/waheeb71" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="waheeb71" height="30" width="40" />
-  </a>
-  <a href="https://fb.com/https://www.facebook.com/share/19eb9lfdyy/?mibextid=qi2omg" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/sybersc" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
-  </a>
-  <a href="https://www.youtube.com/c/cyber_code1" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="cyber_code1" height="30" width="40" />
-  </a>
+---
+
+### 📊 إحصائياتي على GitHub
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=waheeb71&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="waheeb71" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=waheeb71&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="waheeb71" />
+</p>
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=waheeb71&theme=tokyonight&hide_border=true" alt="waheeb71" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
-  </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://www.cypress.io" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/>
-  </a>
-  <a href="https://dart.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
-  </a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  </a>
+---
+
+### 🤝 تواصل معي وادعمني
+
+<p align="center">
+  <a href="mailto:rhybmhywb9@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://t.me/WAT4F"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://twitter.com/sybersc" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/waheeb71" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.youtube.com/c/cyber_code1" target="blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 </p>
 
-<h3 align="left">Support:</h3>
-<p>
-  <a href="https://www.buymeacoffee.com/waheeb71">
-    <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="waheeb71" />
+<p align="center">
+  <a href="https://www.buymeacoffee.com/waheeb71" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" />
   </a>
-</p><br><br>
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=waheeb71&show_icons=true&locale=en&layout=compact" alt="waheeb71" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=waheeb71&show_icons=true&locale=en" alt="waheeb71" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=waheeb71&" alt="waheeb71" />
 </p>
