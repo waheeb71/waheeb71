@@ -1,7 +1,43 @@
 <h1 align="center">Hi 👋, I'm Waheeb Al-Sharaabi</h1>
 <h3 align="center">Cybersecurity Specialist | Python Developer</h3>
 
+🔭 I’m currently working on  
+[CYBER Programming Language](https://github.com/cyberlangdev/cyber) — A custom programming language for cybersecurity.
 
+👯 I’m looking to collaborate on  
+[CyberShield Project](https://github.com/cyberlangdev) — A defensive platform for phishing detection and threat analysis.
+
+
+🤝 I’m looking for help with  
+[Network Monitoring Tool](https://github.com/waheeb71/WiFi-Hacking-Tool) — A real-time monitoring system for suspicious network activity.
+
+
+🌱 I’m currently learning  
+AI for Cybersecurity | Flutter | Malware Analysis | Offensive Security
+
+💬 Ask me about  
+Python | Cybersecurity | Network Security | Penetration Testing | Nmap | Linux
+
+📫 How to reach me  
+📧 rhybmhywb9@gmail.com 
+📬 Telegram: [@WAT4F](https://t.me/WAT4F)
+
+
+👨‍💻 All of my projects are available at  
+[https://github.com/waheeb71](https://github.com/waheeb71)
+
+
+📄 Know about my experiences  
+[Resume/CV](https://github.com/waheeb71/mycv)
+
+⚡ Fun fact  
+I once built a fake ransomware for education that scared my friends 😅
+
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=waheeb71" alt="waheeb71" />
+  </a>
+</p>
 
 <p align="left">
   <a href="https://twitter.com/sybersc" target="blank">
