@@ -5,11 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=waheeb71&label=Profile%20views&color=0e75b6&style=flat" alt="waheeb71" />
 </p>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=waheeb71" alt="waheeb71" />
-  </a>
-</p>
+
 
 <p align="left">
   <a href="https://twitter.com/sybersc" target="blank">
