@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Waheeb Al-Sharaabi</h1>
 <h3 align="center">Cybersecurity Specialist | Python Developer</h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=waheeb71&label=Profile%20views&color=0e75b6&style=flat" alt="waheeb71" />
-</p>
-
 
 
 <p align="left">
