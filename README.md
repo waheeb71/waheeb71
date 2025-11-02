@@ -1,10 +1,10 @@
 <div align="center">
   <img src="https://media.giphy.com/media/du3J3BYNQxbjG/giphy.gif" width="100" />
 </div>
-<!-- Animated Header -->
-<img width="100%" height="300" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Waheeb%20|%20وهيب&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Network%20Analyst%20%26%20Security%20Researcher&descAlignY=60&descSize=20"/>
-
+<div align="center">
+  <img width="100%" height="300" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Waheeb%20-%20وهيب&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Network%20Analyst%20and%20Security%20Researcher&descAlignY=60&descSize=20" />
 </div>
+
 
 <!-- Typing Animation -->
 <div align="center">
