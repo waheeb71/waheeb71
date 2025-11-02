@@ -1,17 +1,19 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/du3J3BYNQxbjG/giphy.gif" width="100" />
+  <img src="https://media.giphy.com/media/du3J3BYNQxbjG/giphy.gif" width="200" />
 </div>
 <div align="center">
-  <img width="100%" height="300" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Waheeb%20-%20وهيب&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Network%20Analyst%20and%20Security%20Researcher&descAlignY=60&descSize=20" />
-</div>
 
+<!-- Header -->
+<img width="100%" height="300" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Waheeb%20|%20وهيب&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=40&desc=مختص%20أمن%20سيبراني&descAlignY=60&descSize=20"/>
+
+</div>
 
 <!-- Typing Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=مرحباً%2C+أنا+وهيب+👋;Hello%2C+I\"m+Waheeb+👋;محلل+شبكات+وباحث+أمني;Network+Analyst+%26+Security+Researcher;دعنا+نبني+أمان+الإنترنت+معاً!;Let's+make+the+internet+safer+together!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=مرحباً%2C+أنا+وهيب+👋;خريج+بكالوريوس+أمن+سيبراني;مختص+في+الأمن+السيبراني+وحماية+الأنظمة;Cybersecurity+Specialist;مهتم+بتطوير+الأدوات+والأتمتة+الأمنية!" alt="Typing SVG" />
 </div>
 
-### 🏆 ترتيبي في اليمن
+🏆 My Ranking in Yemen
 [![committers.top badge](https://user-badge.committers.top/yemen/waheeb71.svg)](https://user-badge.committers.top/yemen/waheeb71)
 
 <h1 align="center">Hi 👋, I'm Waheeb Al-Sharaabi</h1>
