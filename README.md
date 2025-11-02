@@ -1,6 +1,18 @@
 <div align="center">
   <img src="https://media.giphy.com/media/du3J3BYNQxbjG/giphy.gif" width="100" />
 </div>
+<!-- Animated Header -->
+<img width="100%" height="300" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Waheeb%20|%20وهيب&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Network%20Analyst%20%26%20Security%20Researcher&descAlignY=60&descSize=20"/>
+
+</div>
+
+<!-- Typing Animation -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=مرحباً%2C+أنا+وهيب+👋;Hello%2C+I\"m+Waheeb+👋;محلل+شبكات+وباحث+أمني;Network+Analyst+%26+Security+Researcher;دعنا+نبني+أمان+الإنترنت+معاً!;Let's+make+the+internet+safer+together!" alt="Typing SVG" />
+</div>
+
+### 🏆 ترتيبي في اليمن
+[![committers.top badge](https://user-badge.committers.top/yemen/waheeb71.svg)](https://user-badge.committers.top/yemen/waheeb71)
 
 <h1 align="center">Hi 👋, I'm Waheeb Al-Sharaabi</h1>
 <h3 align="center">Cybersecurity Specialist | Python Developer</h3>
