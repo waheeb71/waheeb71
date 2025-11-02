@@ -1,17 +1,21 @@
 <div align="center">
   <img src="https://media.giphy.com/media/du3J3BYNQxbjG/giphy.gif" width="200" />
 </div>
+
 <div align="center">
 
 <!-- Header -->
-<img width="100%" height="300" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Waheeb%20|%20وهيب&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=40&desc=مختص%20أمن%20سيبراني&descAlignY=60&descSize=20"/>
+<img width="100%" height="300" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Waheeb%20|%20Waheeb&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Cybersecurity%20Specialist&descAlignY=60&descSize=20"/>
 
 </div>
+
+
 
 <!-- Typing Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=مرحباً%2C+أنا+وهيب+👋;خريج+بكالوريوس+أمن+سيبراني;مختص+في+الأمن+السيبراني+وحماية+الأنظمة;Cybersecurity+Specialist;مهتم+بتطوير+الأدوات+والأتمتة+الأمنية!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=800&height=150&lines=Hello%2C+I'm+Waheeb+👋;Bachelor+in+Cybersecurity;Cybersecurity+Specialist;Passionate+about+security+tools+and+automation!" alt="Typing SVG" />
 </div>
+
 
 🏆 My Ranking in Yemen
 [![committers.top badge](https://user-badge.committers.top/yemen/waheeb71.svg)](https://user-badge.committers.top/yemen/waheeb71)
