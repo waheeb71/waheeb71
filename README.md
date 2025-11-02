@@ -5,7 +5,7 @@
 <div align="center">
 
 <!-- Header -->
-<img width="100%" height="300" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Waheeb%20|%20Waheeb&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Cybersecurity%20Specialist&descAlignY=60&descSize=20"/>
+<img width="100%" height="300" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Waheeb%20|%20Al_Sharaabi&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Cybersecurity%20Specialist&descAlignY=60&descSize=20"/> 
 
 </div>
 
