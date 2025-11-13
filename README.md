@@ -5,7 +5,7 @@
 <div align="center">
 
 <!-- Header -->
-<img width="100%" height="300" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Waheeb%20|%20Al_Sharaabi&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Cybersecurity%20Specialist&descAlignY=60&descSize=20"/> 
+<img width="100%" height="300" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Waheeb%20|%20Al-Humaeri&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Cybersecurity%20Specialist&descAlignY=60&descSize=20"/> 
 
 </div>
 
@@ -20,7 +20,7 @@
 🏆 My Ranking in Yemen
 [![committers.top badge](https://user-badge.committers.top/yemen/waheeb71.svg)](https://user-badge.committers.top/yemen/waheeb71)
 
-<h1 align="center">Hi 👋, I'm Waheeb Al-Sharaabi</h1>
+<h1 align="center">Hi 👋, I'm Waheeb Al-Humaeri</h1>
 <h3 align="center">Cybersecurity Specialist | Python Developer</h3>
 
 <p align="center">
@@ -30,7 +30,6 @@
   <a href="https://linkedin.com/in/waheeb71" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://www.youtube.com/@cyber_code1/" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
 </p>
-
 
 ---
 
@@ -51,6 +50,7 @@
 ### 🚀 My Tech Stack
 
 <p align="center">
+  
   <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/></a>
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/></a>
